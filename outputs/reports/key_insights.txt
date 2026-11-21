@@ -1,0 +1,34 @@
+
+CAR PRICE PREDICTION - KEY INSIGHTS
+
+Dataset:
+- Total records after cleaning: 299
+- Total features used: 7
+- Target variable: Selling_Price
+
+Dataset Statistics:
+- Average selling price: 4.59 lakh
+- Minimum selling price: 0.10 lakh
+- Maximum selling price: 35.00 lakh
+
+Model Comparison:
+            Model  CV_RMSE  Test_MAE  Test_RMSE  Test_R2
+Gradient Boosting 1.517245  0.921729   1.956622 0.851460
+    Random Forest 1.548807  1.512950   3.661398 0.479855
+    Decision Tree 1.714870  1.413714   2.775508 0.701107
+Linear Regression 1.731575  1.472546   2.524505 0.752723
+
+Best Model:
+Gradient Boosting
+
+Final Model Evaluation:
+- MAE: 0.9217
+- RMSE: 1.9566
+- R2 Score: 0.8515
+
+Custom Prediction:
+- Predicted selling price: 3.90 lakh
+
+Note:
+Predictions are estimates based on the dataset and model.
+They are not guaranteed market prices.

@@ -1,0 +1,12 @@
+Feature,Importance
+num__Present_Price,0.8848663395484737
+num__Year,0.07970866844296401
+num__Driven_kms,0.013268608045337058
+cat__Transmission_Manual,0.007534236215591069
+cat__Transmission_Automatic,0.004682328000257692
+cat__Fuel_Type_Diesel,0.004363126912725593
+cat__Selling_type_Dealer,0.0028398601180776926
+cat__Fuel_Type_Petrol,0.002692935751933157
+cat__Selling_type_Individual,4.3896964640171684e-05
+num__Owner,0.0
+cat__Fuel_Type_CNG,0.0
